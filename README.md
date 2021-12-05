@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="PlantManager" title="PlantManager" src=".github/logo.svg" />
+    <img alt="PlantManager" title="PlantManager" src="assets/icon.png" />
 </h1>
 
 <p align="center">
@@ -9,12 +9,6 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
-
-<p align="center">
-  <img alt="Moveit" src="assets/adaptive-icon.png">
-</p>
-
----
 
 ## ⚛ Technologies
 
